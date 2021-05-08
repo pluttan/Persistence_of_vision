@@ -261,7 +261,7 @@ void drawBalls() {
           sphere(10);
         } else {
           fill(colR[x][y][z], colG[x][y][z], colB[x][y][z], 30);
-          sphere(10);
+          if (thisZ==z)sphere(10);
           fill(255);
         }
 
