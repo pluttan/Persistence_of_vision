@@ -1,0 +1,69 @@
+\babel@toc {russian}{}
+\contentsline {section}{\numberline {1}Аннотация}{4}{section.1}%
+\contentsline {section}{\numberline {2}Введение}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Актуальность}{5}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Проблема}{5}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Цель работы}{5}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Задачи}{5}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Общие сведения о инерции зрения}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Определение}{6}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Почему возникает?}{6}{subsection.3.2}%
+\contentsline {section}{\numberline {4}История POV}{7}{section.4}%
+\contentsline {section}{\numberline {5}Природные условия, объясняемые персистенцией}{10}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Молния}{10}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Снежные бури}{10}{subsection.5.2}%
+\contentsline {section}{\numberline {6}Прямые использования эффекта}{11}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Тауматроп}{11}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Анортоскоп}{11}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Фенакистископ и стробоскоп}{13}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}Зоотроп}{13}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.5}Кинеограф}{15}{subsection.6.5}%
+\contentsline {subsection}{\numberline {6.6}GIF}{15}{subsection.6.6}%
+\contentsline {section}{\numberline {7}Косвенные использования эффекта}{16}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Кадровая частота}{16}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}POV пропеллер}{16}{subsection.7.2}%
+\contentsline {section}{\numberline {8}Практическая часть}{17}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Введение в практическую часть}{17}{subsection.8.1}%
+\contentsline {subsubsection}{\numberline {8.1.1}Кривошипно-шатунный механизм}{17}{subsubsection.8.1.1}%
+\contentsline {subsubsection}{\numberline {8.1.2}Мотор}{19}{subsubsection.8.1.2}%
+\contentsline {subsubsection}{\numberline {8.1.3}Светодиоды}{19}{subsubsection.8.1.3}%
+\contentsline {subsubsection}{\numberline {8.1.4}Микроконтроллер}{21}{subsubsection.8.1.4}%
+\contentsline {subsubsection}{\numberline {8.1.5}Светодиодная матрица}{23}{subsubsection.8.1.5}%
+\contentsline {subsection}{\numberline {8.2}Корпус}{25}{subsection.8.2}%
+\contentsline {subsubsection}{\numberline {8.2.1}Размеры}{25}{subsubsection.8.2.1}%
+\contentsline {subsubsection}{\numberline {8.2.2}Детали 1-2}{25}{subsubsection.8.2.2}%
+\contentsline {subsubsection}{\numberline {8.2.3}Дополнительные подпорки (3-я деталь)}{26}{subsubsection.8.2.3}%
+\contentsline {subsubsection}{\numberline {8.2.4}Держатель подложки (4-я деталь)}{27}{subsubsection.8.2.4}%
+\contentsline {subsubsection}{\numberline {8.2.5}Сборка}{27}{subsubsection.8.2.5}%
+\contentsline {subsubsection}{\numberline {8.2.6}Покраска}{27}{subsubsection.8.2.6}%
+\contentsline {subsection}{\numberline {8.3}Динамические детали корпуса}{28}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.4}Дополнительные технические улучшения}{28}{subsection.8.4}%
+\contentsline {subsubsection}{\numberline {8.4.1}Щелевой оптический датчик}{28}{subsubsection.8.4.1}%
+\contentsline {subsubsection}{\numberline {8.4.2}Светодиоды}{28}{subsubsection.8.4.2}%
+\contentsline {subsubsection}{\numberline {8.4.3}Реле для мотора}{29}{subsubsection.8.4.3}%
+\contentsline {subsection}{\numberline {8.5}Программирование матрицы}{30}{subsection.8.5}%
+\contentsline {subsubsection}{\numberline {8.5.1}Почему Adafruit NeoPixel(ст. \#1)}{30}{subsubsection.8.5.1}%
+\contentsline {subsubsection}{\numberline {8.5.2}Работа с данными (ст. \#2)}{32}{subsubsection.8.5.2}%
+\contentsline {subsubsection}{\numberline {8.5.3}Переменная библеотеки (ст.\#3-6)}{33}{subsubsection.8.5.3}%
+\contentsline {subsubsection}{\numberline {8.5.4}Функция установки (ст.\#7-12)}{33}{subsubsection.8.5.4}%
+\contentsline {subsubsection}{\numberline {8.5.5}Постоянная функция (ст.\#13-22)}{33}{subsubsection.8.5.5}%
+\contentsline {subsubsection}{\numberline {8.5.6}lines.h или как связать МК и абсолютно любой ЯП}{33}{subsubsection.8.5.6}%
+\contentsline {subsection}{\numberline {8.6}Приложение}{34}{subsection.8.6}%
+\contentsline {subsubsection}{\numberline {8.6.1}функции setup и draw}{35}{subsubsection.8.6.1}%
+\contentsline {subsubsection}{\numberline {8.6.2}Кнопки и текст}{37}{subsubsection.8.6.2}%
+\contentsline {subsubsection}{\numberline {8.6.3}Кнопка очистить}{37}{subsubsection.8.6.3}%
+\contentsline {subsubsection}{\numberline {8.6.4}Фунцкия сохранения}{39}{subsubsection.8.6.4}%
+\contentsline {subsubsection}{\numberline {8.6.5}Функция кругов}{41}{subsubsection.8.6.5}%
+\contentsline {subsubsection}{\numberline {8.6.6}Функция нажатия кнопки мыши}{42}{subsubsection.8.6.6}%
+\contentsline {subsubsection}{\numberline {8.6.7}Функция колесика}{43}{subsubsection.8.6.7}%
+\contentsline {subsubsection}{\numberline {8.6.8}Функция рисования куба}{43}{subsubsection.8.6.8}%
+\contentsline {subsubsection}{\numberline {8.6.9}Другие версии}{45}{subsubsection.8.6.9}%
+\contentsline {subsubsection}{\numberline {8.6.10}Дополнительные примеры работы приложения}{45}{subsubsection.8.6.10}%
+\contentsline {subsection}{\numberline {8.7}Дополнения}{46}{subsection.8.7}%
+\contentsline {subsubsection}{\numberline {8.7.1}\LaTeX }{46}{subsubsection.8.7.1}%
+\contentsline {subsubsection}{\numberline {8.7.2}Повтор проекта}{47}{subsubsection.8.7.2}%
+\contentsline {subsubsection}{\numberline {8.7.3}Цена}{47}{subsubsection.8.7.3}%
+\contentsline {section}{\numberline {9}Области применения и планы на следующие версии}{48}{section.9}%
+\contentsline {section}{\numberline {10}Список использованной литературы}{49}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Интернет-документы:}{49}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}Монографии(книги):}{49}{subsection.10.2}%

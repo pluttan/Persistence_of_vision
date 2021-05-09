@@ -18,6 +18,7 @@
 \usepackage{hyperref}
 \usepackage{xcolor}
 
+\newcommand{\rub}{{\rm{Р}\kern-.635em\rule[.5ex]{.52em}{.04em}\kern.11em}}
 
 \definecolor{linkcolor}{HTML}{000000} 
 \definecolor{urlcolor}{HTML}{0000FF} 
@@ -26,7 +27,7 @@
 
 \definecolor{grey}{RGB}{40, 40, 40}
 
-\renewcommand{\href}[1]{\verb{\url{#1}}}
+\renewcommand{\href}[1]{\url{#1}}
 
 \lstdefinestyle{CommentStyle}{
     language=XML,
@@ -1837,11 +1838,11 @@ $\pm$2000 строк кода в \LaTeX и размер \TeX-файла прев
 \subsubsection{Повтор проекта}
 
 Я довольно подробно описал в этом реферате как и что я сделал и почему. 
-Последние версии моего проекта я выкладывал на github и один пацан, увидев мой
+Последние версии моего проекта я выкладывал на github и один мальчик, увидев мой
 проект скопировал мой код и полностью повторил проект. Вот что у него 
 получилось:
 
-%!фото его проекта
+\image{его.jpg}{550}{Голограмма, созданная по моему реферату}
 
 \subsubsection{Цена}
 
@@ -1850,7 +1851,37 @@ $\pm$2000 строк кода в \LaTeX и размер \TeX-файла прев
 
 %!таблица цен
 %?Название/ количество/ Цена сейчас/ Цена при покупке/ Общая сумма
-
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+Название&Количество&Цена сейчас(\rub)&Цена при покупке(\rub)&Общая сумма(\rub)\\
+\hline
+Матрица 16$\times$16&1&1000&1000&1000\\
+\hline
+Лист фанеры&1&600&230&230\\
+\hline
+Ethernet-кабель&1&200&--&0\\
+\hline
+Arduino Nano&1&300&120&120\\
+\hline
+Реле&1&150&120&120\\
+\hline
+Аккумулятор&1&100&100&100\\
+\hline 
+Оптический датчик&1&120&100&100\\
+\hline
+Орк-стекло&2&400&--&0\\
+\hline
+Мотор&1&100&100&100\\
+\hline
+Металлический прут&1&60&60&60\\
+\hline
+Алюминиевый лист&1&40&40\\
+\hline
+\end{tabular}
+\end{center}
+В итоге весь проект мне обошелся в 1870. По моим меркам, если данную поделку будут продавать в магазинах, то она будет стоить гораздо дороже.
+\newpage
 \section{Области применения и планы на следующие версии}
 
 Мой проект изначально создавался в качестве простой инновации, потому 
@@ -1880,26 +1911,33 @@ $\pm$2000 строк кода в \LaTeX и размер \TeX-файла прев
 	\item Создать собственный сайт с возможностью дистанционного 
 	управления голограммой
 \end{enumerate}
+Все материалы, относящиеся к проекту можно найти на сайте 
+\href{https://github.com/pluttan/Persistence_of_vision} или по 
+QR-коду:
+\image{qr-code.png}{200}{QR код}
 \newpage
 \ttfamily
 \section{Список использованной литературы}
 \subsection{Интернет-документы:}
 \begin{enumerate} 
 \item Интернет-ресурс, новостной канал. \\
-Режим доступа(URL):\href{https://masterok.livejournal.com/s/4469932.html} 
-
+Режим доступа(URL):\href{https://masterok.livejournal.com/s/4469932.html} \\
 (дата обращения: 12.12.2020).
 \item Интернет-ресурс, свободная энциклопедия. \\
-Режим доступа(URL): \href{https://dic.academic.ru/dic.nsf/ruwiki/1506240}
-
+Режим доступа(URL): \href{https://dic.academic.ru/dic.nsf/ruwiki/1506240}\\
 (дата обращения: 12.12.2020).
 \item Интернет-ресурс, физическое объяснение зрения. \\
-Режим доступа(URL):\href{https://zreni.ru/articles/tehnicheskoe-zrenie/2194-inerciya-zreniya.html} 
-
+Режим доступа(URL):\href{https://zreni.ru/articles/tehnicheskoe-zrenie/2194-inerciya-zreniya.html} \\
 (дата обращения: 12.12.2020).
 \item Интернет-ресурс, личный блог. \\
-Режим доступа(URL): \href{https://alexgyver.ru/3dpov} 
-
+Режим доступа(URL): \href{https://alexgyver.ru/3dpov} \\
 (дата обращения: 12.12.2020).
+\item Интернет-ресурс, документация\\
+Режим доступа(URL): \href{https://processing.org/}\\
+(дата обращения:29.03.2021)
+\end{enumerate}
+\subsection{Монографии(книги):}
+\begin{enumerate}
+\item М. Д. Артамонов, М. М. Морин, Г. А. Скворцов// ОСНОВЫ ТЕОРИИ И КОНСТРУИРОВАНИЯ АВТОТРАКТОРНЫХ ДВИГАТЕЛЕЙ 1978г. -- стр.3-11,123 \item С.М. Львовский//LaTeX: Подробное содержание 1986г.
 \end{enumerate}
 \end{document}
