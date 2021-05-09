@@ -1,0 +1,57 @@
+\babel@toc {russian}{}
+\contentsline {section}{\numberline {1}Аннотация}{3}%
+\contentsline {section}{\numberline {2}Введение}{4}%
+\contentsline {subsection}{\numberline {2.1}Актуальность}{4}%
+\contentsline {subsection}{\numberline {2.2}Проблема}{4}%
+\contentsline {subsection}{\numberline {2.3}Цель работы}{4}%
+\contentsline {subsection}{\numberline {2.4}Задачи}{4}%
+\contentsline {section}{\numberline {3}Общие сведения о инерции зрения}{5}%
+\contentsline {subsection}{\numberline {3.1}Определение}{5}%
+\contentsline {subsection}{\numberline {3.2}Почему возникает?}{5}%
+\contentsline {section}{\numberline {4}История POV}{6}%
+\contentsline {section}{\numberline {5}Природные условия, объясняемые персистенцией}{9}%
+\contentsline {subsection}{\numberline {5.1}Молния}{9}%
+\contentsline {subsection}{\numberline {5.2}Снежные бури}{9}%
+\contentsline {section}{\numberline {6}Прямые использования эффекта}{10}%
+\contentsline {subsection}{\numberline {6.1}Тауматроп}{10}%
+\contentsline {subsection}{\numberline {6.2}Анортоскоп}{10}%
+\contentsline {subsection}{\numberline {6.3}Фенакистископ и стробоскоп}{12}%
+\contentsline {subsection}{\numberline {6.4}Зоотроп}{12}%
+\contentsline {subsection}{\numberline {6.5}Кинеограф}{14}%
+\contentsline {subsection}{\numberline {6.6}GIF}{14}%
+\contentsline {section}{\numberline {7}Косвенные использования эффекта}{15}%
+\contentsline {subsection}{\numberline {7.1}Кадровая частота}{15}%
+\contentsline {subsection}{\numberline {7.2}POV пропеллер}{15}%
+\contentsline {section}{\numberline {8}Практическая часть}{16}%
+\contentsline {subsection}{\numberline {8.1}Введение в практическую часть}{16}%
+\contentsline {subsubsection}{\numberline {8.1.1}Кривошипно-шатунный механизм}{16}%
+\contentsline {subsubsection}{\numberline {8.1.2}Мотор}{18}%
+\contentsline {subsubsection}{\numberline {8.1.3}Светодиоды}{18}%
+\contentsline {subsubsection}{\numberline {8.1.4}Микроконтроллер}{20}%
+\contentsline {subsubsection}{\numberline {8.1.5}Светодиодная матрица}{22}%
+\contentsline {subsection}{\numberline {8.2}Корпус}{24}%
+\contentsline {subsubsection}{\numberline {8.2.1}Размеры}{24}%
+\contentsline {subsubsection}{\numberline {8.2.2}Детали 1-2}{24}%
+\contentsline {subsubsection}{\numberline {8.2.3}Дополнительные подпорки (3-я деталь)}{25}%
+\contentsline {subsubsection}{\numberline {8.2.4}Держатель подложки (4-я деталь)}{26}%
+\contentsline {subsubsection}{\numberline {8.2.5}Сборка}{26}%
+\contentsline {subsubsection}{\numberline {8.2.6}Покраска}{26}%
+\contentsline {subsection}{\numberline {8.3}Динамические детали корпуса}{27}%
+\contentsline {subsection}{\numberline {8.4}Дополнительные технические улучшения}{27}%
+\contentsline {subsubsection}{\numberline {8.4.1}Щелевой оптический датчик}{27}%
+\contentsline {subsubsection}{\numberline {8.4.2}Светодиоды}{27}%
+\contentsline {subsubsection}{\numberline {8.4.3}Реле для мотора}{28}%
+\contentsline {subsection}{\numberline {8.5}Программирование матрицы}{29}%
+\contentsline {subsubsection}{\numberline {8.5.1}Почему Adafruit NeoPixel(ст. \#1)}{29}%
+\contentsline {subsubsection}{\numberline {8.5.2}Работа с данными (ст. \#2)}{31}%
+\contentsline {subsubsection}{\numberline {8.5.3}Переменная библеотеки (ст.\#3-6)}{32}%
+\contentsline {subsubsection}{\numberline {8.5.4}Функция установки (ст.\#7-12)}{32}%
+\contentsline {subsubsection}{\numberline {8.5.5}Постоянная функция (ст.\#13-22)}{32}%
+\contentsline {subsubsection}{\numberline {8.5.6}lines.h или как связать МК и абсолютно любой ЯП}{32}%
+\contentsline {subsection}{\numberline {8.6}Приложение}{33}%
+\contentsline {subsubsection}{\numberline {8.6.1}функции setup и draw}{34}%
+\contentsline {subsubsection}{\numberline {8.6.2}Кнопки и текст}{36}%
+\contentsline {subsubsection}{\numberline {8.6.3}Кнопка очистить}{36}%
+\contentsline {subsubsection}{\numberline {8.6.4}Фунцкия сохранения}{38}%
+\contentsline {subsubsection}{\numberline {8.6.5}Функция кругов}{38}%
+\contentsline {subsubsection}{\numberline {8.6.6}Функция нажатия кнопки мыши}{38}%
