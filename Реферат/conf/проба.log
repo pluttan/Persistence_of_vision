@@ -813,8 +813,8 @@ Package pdftex.def Info: img/РіР»Р°Р·.png  used on input line 247.
 (pdftex.def)             Requested size: 198.8258pt x 170.0pt.
  [6 <./img/РіР»Р°Р·.png>]
 Underfull \hbox (badness 2393) in paragraph at lines 262--268
-[]\T2A/cmr/m/n/12 Примерно в 165 го-ду на-шей эры Пто-ле-мей опи-сал в сво-ей к
-ни-ге "оп-ти-
+[]\T2A/cmr/m/n/12 пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ 165 пїЅпїЅ-пїЅпїЅ пїЅпїЅ-пїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅ-пїЅпїЅ-пїЅпїЅпїЅ пїЅпїЅпїЅ-пїЅпїЅпїЅ пїЅ пїЅпїЅпїЅ-пїЅпїЅ пїЅ
+пїЅпїЅ-пїЅпїЅ "пїЅпїЅ-пїЅпїЅ-
  []
 
 [7]
@@ -889,8 +889,8 @@ Package pdftex.def Info: img/РїСЂРѕРїРµР»Р»РµСЂ.jpg  used on input line 545.
 (pdftex.def)             Requested size: 199.99596pt x 200.0pt.
  [15 <./img/РњРµРґРІРµРґСЊ.jpg> <./img/РїСЂРѕРїРµР»Р»РµСЂ.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 564--569
-[]\T2A/cmr/m/n/12 Кривошипно-шатунный ме-ха-низм(КШМ) пред-на-зна-чен для пре-о
-б-ра-зо-ва-ния
+[]\T2A/cmr/m/n/12 пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ-пїЅпїЅ-пїЅпїЅпїЅпїЅ(пїЅпїЅпїЅ) пїЅпїЅпїЅпїЅ-пїЅпїЅ-пїЅпїЅпїЅ-пїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅ-пїЅ
+пїЅ-пїЅпїЅ-пїЅпїЅ-пїЅпїЅ-пїЅпїЅпїЅ
  []
 
 <img/РЁР°С‚СѓРЅ.png, id=461, 279.0425pt x 573.14125pt>
@@ -995,8 +995,8 @@ e jpg)
 Package pdftex.def Info: img/РџРѕР»СѓС‡РёРІС€Р°СЏСЃСЏ_РєРѕРЅСЃС‚СЂСѓРєС†РёСЏ.jp
 g  used on input line 896.
 (pdftex.def)             Requested size: 149.98502pt x 200.0pt.
- [26 <./img/4 РґРµС‚Р°Р»Рё.jpg> <./img/РџРѕР»СѓС‡РёРІС€Р°СЏСЃСЏ_РєРѕРЅСЃС‚СЂСѓР
-єС†РёСЏ.jpg>] [27]
+ [26 <./img/4 РґРµС‚Р°Р»Рё.jpg> <./img/РџРѕР»СѓС‡РёРІС€Р°СЏСЃСЏ_РєРѕРЅСЃС‚СЂСѓпїЅ
+пїЅС†РёСЏ.jpg>] [27]
 [28] (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2019/09/10 1.8c listings language file
 )
@@ -1073,14 +1073,14 @@ Package pdftex.def Info: img/qr-code.png  used on input line 1891.
 (pdftex.def)             Requested size: 200.00053pt x 200.0pt.
  [48 <./img/qr-code.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 1903--1906
-\T2A/cmtt/m/n/12 Режим доступа(URL):[][]$https : / / zreni . ru / articles / te
+\T2A/cmtt/m/n/12 пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ(URL):[][]$https : / / zreni . ru / articles / te
 hnicheskoe-[]zrenie /
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1915--1915
-[]\T2A/cmtt/m/n/12 М. Д. Артамонов, М. М. Морин, Г. А. Скворцов// ОСНОВЫ ТЕОРИИ
- И
+[]\T2A/cmtt/m/n/12 пїЅ. пїЅ. пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅ. пїЅ. пїЅпїЅпїЅпїЅпїЅ, пїЅ. пїЅ. пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ// пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ
+ пїЅ
  []
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1917.
