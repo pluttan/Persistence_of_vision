@@ -151,7 +151,7 @@ void saveBitmap() {
 
   lines[17] = "};";
   
-  saveStrings("../Ардуино/lines.ino", lines);
+  saveStrings("../Arduino/lines.ino", lines);
 }
 void mousePressed() 
 {
