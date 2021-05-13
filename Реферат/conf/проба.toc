@@ -25,9 +25,9 @@
 \contentsline {section}{\numberline {8}Практическая часть}{16}{section.8}%
 \contentsline {subsection}{\numberline {8.1}Введение в практическую часть}{16}{subsection.8.1}%
 \contentsline {subsubsection}{\numberline {8.1.1}Кривошипно-шатунный механизм}{16}{subsubsection.8.1.1}%
-\contentsline {subsubsection}{\numberline {8.1.2}Мотор}{18}{subsubsection.8.1.2}%
+\contentsline {subsubsection}{\numberline {8.1.2}Мотор}{17}{subsubsection.8.1.2}%
 \contentsline {subsubsection}{\numberline {8.1.3}Светодиоды}{18}{subsubsection.8.1.3}%
-\contentsline {subsubsection}{\numberline {8.1.4}Микроконтроллер}{20}{subsubsection.8.1.4}%
+\contentsline {subsubsection}{\numberline {8.1.4}Микроконтроллер}{19}{subsubsection.8.1.4}%
 \contentsline {subsubsection}{\numberline {8.1.5}Светодиодная матрица}{21}{subsubsection.8.1.5}%
 \contentsline {subsection}{\numberline {8.2}Корпус}{23}{subsection.8.2}%
 \contentsline {subsubsection}{\numberline {8.2.1}Размеры}{23}{subsubsection.8.2.1}%
@@ -35,35 +35,38 @@
 \contentsline {subsubsection}{\numberline {8.2.3}Дополнительные подпорки (3-я деталь)}{25}{subsubsection.8.2.3}%
 \contentsline {subsubsection}{\numberline {8.2.4}Держатель подложки (4-я деталь)}{25}{subsubsection.8.2.4}%
 \contentsline {subsubsection}{\numberline {8.2.5}Сборка}{25}{subsubsection.8.2.5}%
-\contentsline {subsubsection}{\numberline {8.2.6}Покраска}{26}{subsubsection.8.2.6}%
 \contentsline {subsection}{\numberline {8.3}Динамические детали корпуса}{27}{subsection.8.3}%
-\contentsline {subsection}{\numberline {8.4}Дополнительные технические улучшения}{27}{subsection.8.4}%
-\contentsline {subsubsection}{\numberline {8.4.1}Щелевой оптический датчик}{27}{subsubsection.8.4.1}%
-\contentsline {subsubsection}{\numberline {8.4.2}Светодиоды}{27}{subsubsection.8.4.2}%
-\contentsline {subsubsection}{\numberline {8.4.3}Реле для мотора}{28}{subsubsection.8.4.3}%
-\contentsline {subsection}{\numberline {8.5}Программирование матрицы}{29}{subsection.8.5}%
-\contentsline {subsubsection}{\numberline {8.5.1}Почему Adafruit NeoPixel(ст. \#1)}{29}{subsubsection.8.5.1}%
-\contentsline {subsubsection}{\numberline {8.5.2}Работа с данными (ст. \#2)}{31}{subsubsection.8.5.2}%
-\contentsline {subsubsection}{\numberline {8.5.3}Переменная библеотеки (ст.\#3-6)}{32}{subsubsection.8.5.3}%
-\contentsline {subsubsection}{\numberline {8.5.4}Функция установки (ст.\#7-12)}{32}{subsubsection.8.5.4}%
-\contentsline {subsubsection}{\numberline {8.5.5}Постоянная функция (ст.\#13-22)}{32}{subsubsection.8.5.5}%
-\contentsline {subsubsection}{\numberline {8.5.6}lines.h или как связать МК и абсолютно любой ЯП}{32}{subsubsection.8.5.6}%
-\contentsline {subsection}{\numberline {8.6}Приложение}{33}{subsection.8.6}%
-\contentsline {subsubsection}{\numberline {8.6.1}функции setup и draw}{34}{subsubsection.8.6.1}%
-\contentsline {subsubsection}{\numberline {8.6.2}Кнопки и текст}{36}{subsubsection.8.6.2}%
-\contentsline {subsubsection}{\numberline {8.6.3}Кнопка очистить}{36}{subsubsection.8.6.3}%
-\contentsline {subsubsection}{\numberline {8.6.4}Фунцкия сохранения}{38}{subsubsection.8.6.4}%
-\contentsline {subsubsection}{\numberline {8.6.5}Функция кругов}{40}{subsubsection.8.6.5}%
-\contentsline {subsubsection}{\numberline {8.6.6}Функция нажатия кнопки мыши}{41}{subsubsection.8.6.6}%
-\contentsline {subsubsection}{\numberline {8.6.7}Функция колесика}{42}{subsubsection.8.6.7}%
-\contentsline {subsubsection}{\numberline {8.6.8}Функция рисования куба}{42}{subsubsection.8.6.8}%
-\contentsline {subsubsection}{\numberline {8.6.9}Другие версии}{44}{subsubsection.8.6.9}%
-\contentsline {subsubsection}{\numberline {8.6.10}Дополнительные примеры работы приложения}{44}{subsubsection.8.6.10}%
-\contentsline {subsection}{\numberline {8.7}Дополнения}{45}{subsection.8.7}%
-\contentsline {subsubsection}{\numberline {8.7.1}\LaTeX }{45}{subsubsection.8.7.1}%
-\contentsline {subsubsection}{\numberline {8.7.2}Повтор проекта}{46}{subsubsection.8.7.2}%
-\contentsline {subsubsection}{\numberline {8.7.3}Цена}{47}{subsubsection.8.7.3}%
-\contentsline {section}{\numberline {9}Области применения и планы на следующие версии}{48}{section.9}%
-\contentsline {section}{\numberline {10}Список использованной литературы}{49}{section.10}%
-\contentsline {subsection}{\numberline {10.1}Интернет-документы:}{49}{subsection.10.1}%
-\contentsline {subsection}{\numberline {10.2}Монографии(книги):}{49}{subsection.10.2}%
+\contentsline {subsubsection}{\numberline {8.3.1}Мотор}{27}{subsubsection.8.3.1}%
+\contentsline {subsubsection}{\numberline {8.3.2}Панель и пол}{27}{subsubsection.8.3.2}%
+\contentsline {subsubsection}{\numberline {8.3.3}Шатун}{27}{subsubsection.8.3.3}%
+\contentsline {subsubsection}{\numberline {8.3.4}Распределительная крорбка}{27}{subsubsection.8.3.4}%
+\contentsline {subsection}{\numberline {8.4}Дополнительные технические улучшения}{28}{subsection.8.4}%
+\contentsline {subsubsection}{\numberline {8.4.1}Щелевой оптический датчик}{28}{subsubsection.8.4.1}%
+\contentsline {subsubsection}{\numberline {8.4.2}Светодиоды}{29}{subsubsection.8.4.2}%
+\contentsline {subsubsection}{\numberline {8.4.3}Реле для мотора}{30}{subsubsection.8.4.3}%
+\contentsline {subsection}{\numberline {8.5}Программирование матрицы}{32}{subsection.8.5}%
+\contentsline {subsubsection}{\numberline {8.5.1}Почему Adafruit NeoPixel(ст. \#1)}{33}{subsubsection.8.5.1}%
+\contentsline {subsubsection}{\numberline {8.5.2}Работа с данными (ст. \#2)}{34}{subsubsection.8.5.2}%
+\contentsline {subsubsection}{\numberline {8.5.3}Переменная библеотеки (ст.\#3-6)}{37}{subsubsection.8.5.3}%
+\contentsline {subsubsection}{\numberline {8.5.4}Функция установки (ст.\#7-12)}{37}{subsubsection.8.5.4}%
+\contentsline {subsubsection}{\numberline {8.5.5}Постоянная функция (ст.\#13-22)}{37}{subsubsection.8.5.5}%
+\contentsline {subsubsection}{\numberline {8.5.6}lines.h или как связать МК и абсолютно любой ЯП}{37}{subsubsection.8.5.6}%
+\contentsline {subsection}{\numberline {8.6}Приложение}{38}{subsection.8.6}%
+\contentsline {subsubsection}{\numberline {8.6.1}функции setup и draw}{41}{subsubsection.8.6.1}%
+\contentsline {subsubsection}{\numberline {8.6.2}Кнопки и текст}{43}{subsubsection.8.6.2}%
+\contentsline {subsubsection}{\numberline {8.6.3}Кнопка очистить}{44}{subsubsection.8.6.3}%
+\contentsline {subsubsection}{\numberline {8.6.4}Функция кругов}{44}{subsubsection.8.6.4}%
+\contentsline {subsubsection}{\numberline {8.6.5}Фунцкия сохранения}{45}{subsubsection.8.6.5}%
+\contentsline {subsubsection}{\numberline {8.6.6}Функция нажатия кнопки мыши}{46}{subsubsection.8.6.6}%
+\contentsline {subsubsection}{\numberline {8.6.7}Функция колесика}{47}{subsubsection.8.6.7}%
+\contentsline {subsubsection}{\numberline {8.6.8}Функция рисования куба}{47}{subsubsection.8.6.8}%
+\contentsline {subsubsection}{\numberline {8.6.9}Другие версии}{48}{subsubsection.8.6.9}%
+\contentsline {subsubsection}{\numberline {8.6.10}Дополнительные примеры работы приложения}{48}{subsubsection.8.6.10}%
+\contentsline {subsection}{\numberline {8.7}Дополнения}{49}{subsection.8.7}%
+\contentsline {subsubsection}{\numberline {8.7.1}\LaTeX }{49}{subsubsection.8.7.1}%
+\contentsline {subsubsection}{\numberline {8.7.2}Повтор проекта}{50}{subsubsection.8.7.2}%
+\contentsline {subsubsection}{\numberline {8.7.3}Цена}{51}{subsubsection.8.7.3}%
+\contentsline {section}{\numberline {9}Области применения и планы на следующие версии}{52}{section.9}%
+\contentsline {section}{\numberline {10}Список использованной литературы}{53}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Интернет-документы:}{53}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}Монографии(книги):}{53}{subsection.10.2}%

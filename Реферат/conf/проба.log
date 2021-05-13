@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.5.11)  11 MAY 2021 20:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.5.11)  13 MAY 2021 22:01
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -765,7 +765,7 @@ LaTeX Info: Redefining \nameref on input line 104.
 \@outlinefile=\write5
 \openout5 = `проба.out'.
 
-<img/logo.png, id=277, 188.20313pt x 101.62968pt>
+<img/logo.png, id=293, 188.20313pt x 101.62968pt>
 File: img/logo.png Graphic file (type png)
 <use img/logo.png>
 Package pdftex.def Info: img/logo.png  used on input line 107.
@@ -806,198 +806,229 @@ This may cause the page layout to be inconsistent, however.
 \openout6 = `проба.toc'.
 
  [3] [4] [5]
-<img/глаз.png, id=387, 602.25pt x 514.92375pt>
+<img/глаз.png, id=407, 602.25pt x 514.92375pt>
 File: img/глаз.png Graphic file (type png)
 <use img/глаз.png>
 Package pdftex.def Info: img/глаз.png  used on input line 247.
 (pdftex.def)             Requested size: 198.8258pt x 170.0pt.
  [6 <./img/глаз.png>]
 Underfull \hbox (badness 2393) in paragraph at lines 262--268
-[]\T2A/cmr/m/n/12 �������� � 165 ��-�� ��-��� ��� ���-��-��� ���-��� � ���-�� �
-��-�� "��-��-
+[]\T2A/cmr/m/n/12 �������� � 165 ��-�� ��-��� ��� ���-��-��� ���-��� � ���-�� �
+��-�� "��-��-
  []
 
 [7]
-<img/круг.png, id=401, 419.31656pt x 279.29344pt>
+<img/круг.png, id=421, 419.31656pt x 279.29344pt>
 File: img/круг.png Graphic file (type png)
 <use img/круг.png>
 Package pdftex.def Info: img/круг.png  used on input line 320.
 (pdftex.def)             Requested size: 300.27612pt x 200.0pt.
-<img/Арси.jpg, id=404, 244.915pt x 400.49625pt>
+<img/Арси.jpg, id=424, 244.915pt x 400.49625pt>
 File: img/Арси.jpg Graphic file (type jpg)
 <use img/Арси.jpg>
 Package pdftex.def Info: img/Арси.jpg  used on input line 350.
 (pdftex.def)             Requested size: 184.15665pt x 301.1261pt.
-<img/Плато.png, id=405, 1673.25125pt x 2385.91376pt>
+<img/Плато.png, id=425, 1673.25125pt x 2385.91376pt>
 File: img/Плато.png Graphic file (type png)
 <use img/Плато.png>
 Package pdftex.def Info: img/Плато.png  used on input line 351.
 (pdftex.def)             Requested size: 211.1729pt x 301.1261pt.
  [8 <./img/круг.png>] [9 <./img/Арси.jpg> <./img/Плато.png>]
-<img/Гроза.jpg, id=418, 2569.6pt x 1606.0pt>
+<img/Гроза.jpg, id=438, 2569.6pt x 1606.0pt>
 File: img/Гроза.jpg Graphic file (type jpg)
 <use img/Гроза.jpg>
 Package pdftex.def Info: img/Гроза.jpg  used on input line 383.
 (pdftex.def)             Requested size: 319.98373pt x 200.0pt.
-<img/Снег.png, id=419, 1284.8pt x 880.28876pt>
+<img/Снег.png, id=439, 1284.8pt x 880.28876pt>
 File: img/Снег.png Graphic file (type png)
 <use img/Снег.png>
 Package pdftex.def Info: img/Снег.png  used on input line 392.
 (pdftex.def)             Requested size: 291.89056pt x 200.0pt.
 
 [10 <./img/Гроза.jpg> <./img/Снег.png>]
-<img/Пингвин.jpg, id=426, 602.25pt x 283.0575pt>
+<img/Пингвин.jpg, id=446, 602.25pt x 283.0575pt>
 File: img/Пингвин.jpg Graphic file (type jpg)
 <use img/Пингвин.jpg>
 Package pdftex.def Info: img/Пингвин.jpg  used on input line 411.
 (pdftex.def)             Requested size: 468.09898pt x 220.0pt.
  [11 <./img/Пингвин.jpg>]
-<img/С мышкой.jpg, id=432, 289.08pt x 151.0443pt>
+<img/С мышкой.jpg, id=452, 289.08pt x 151.0443pt>
 File: img/С мышкой.jpg Graphic file (type jpg)
 <use img/С мышкой.jpg>
 Package pdftex.def Info: img/С мышкой.jpg  used on input line 433.
 (pdftex.def)             Requested size: 382.8042pt x 200.0pt.
-<img/Фенакистископ.jpg, id=433, 722.7pt x 481.8pt>
+<img/Фенакистископ.jpg, id=453, 722.7pt x 481.8pt>
 File: img/Фенакистископ.jpg Graphic file (type jpg)
 <use img/Фенакистископ.jpg>
 Package pdftex.def Info: img/Фенакистископ.jpg  used on input line
  448.
 (pdftex.def)             Requested size: 329.99792pt x 220.0pt.
  [12 <./img/С мышкой.jpg> <./img/Фенакистископ.jpg>]
-<img/зоотроп.jpg, id=440, 623.60066pt x 382.8618pt>
+<img/зоотроп.jpg, id=460, 623.60066pt x 382.8618pt>
 File: img/зоотроп.jpg Graphic file (type jpg)
 <use img/зоотроп.jpg>
 Package pdftex.def Info: img/зоотроп.jpg  used on input line 478.
 (pdftex.def)             Requested size: 407.19112pt x 250.0pt.
 
 [13 <./img/зоотроп.jpg>]
-<img/Кинеограф.jpg, id=447, 896.34875pt x 672.5125pt>
+<img/Кинеограф.jpg, id=467, 896.34875pt x 672.5125pt>
 File: img/Кинеограф.jpg Graphic file (type jpg)
 <use img/Кинеограф.jpg>
 Package pdftex.def Info: img/Кинеограф.jpg  used on input line 500.
 (pdftex.def)             Requested size: 399.85187pt x 300.0pt.
  [14 <./img/Кинеограф.jpg>]
-<img/Медведь.jpg, id=453, 1604.99625pt x 333.245pt>
+<img/Медведь.jpg, id=474, 1604.99625pt x 333.245pt>
 File: img/Медведь.jpg Graphic file (type jpg)
 <use img/Медведь.jpg>
 Package pdftex.def Info: img/Медведь.jpg  used on input line 530.
 (pdftex.def)             Requested size: 385.28044pt x 80.0pt.
-<img/пропеллер.jpg, id=454, 1003.75pt x 1003.75pt>
+<img/пропеллер.jpg, id=475, 1003.75pt x 1003.75pt>
 File: img/пропеллер.jpg Graphic file (type jpg)
 <use img/пропеллер.jpg>
 Package pdftex.def Info: img/пропеллер.jpg  used on input line 545.
 (pdftex.def)             Requested size: 199.99596pt x 200.0pt.
  [15 <./img/Медведь.jpg> <./img/пропеллер.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 564--569
-[]\T2A/cmr/m/n/12 ����������-�������� ��-��-����(���) ����-��-���-��� ��� ���-�
-�-��-��-��-���
+Underfull \hbox (badness 10000) in paragraph at lines 570--575
+[]\T2A/cmr/m/n/12 ����������-�������� ��-��-����(���) ����-��-���-��� ��� ���-�
+�-��-��-��-���
  []
 
-<img/Шатун.png, id=461, 279.0425pt x 573.14125pt>
+<img/Шатун.png, id=482, 279.0425pt x 573.14125pt>
 File: img/Шатун.png Graphic file (type png)
 <use img/Шатун.png>
-Package pdftex.def Info: img/Шатун.png  used on input line 582.
-(pdftex.def)             Requested size: 170.40302pt x 350.0pt.
-[16] [17 <./img/Шатун.png>]
-<img/Мотор.jpg, id=481, 937.5025pt x 662.475pt>
+Package pdftex.def Info: img/Шатун.png  used on input line 588.
+(pdftex.def)             Requested size: 111.98119pt x 230.0pt.
+[16 <./img/Шатун.png>]
+<img/Мотор.jpg, id=493, 937.5025pt x 662.475pt>
 File: img/Мотор.jpg Graphic file (type jpg)
 <use img/Мотор.jpg>
-Package pdftex.def Info: img/Мотор.jpg  used on input line 608.
-(pdftex.def)             Requested size: 226.4214pt x 160.0pt.
-<img/Светодиод.png, id=483, 381.425pt x 134.5025pt>
+Package pdftex.def Info: img/Мотор.jpg  used on input line 619.
+(pdftex.def)             Requested size: 353.77986pt x 250.0pt.
+ [17 <./img/Мотор.jpg>]
+<img/Светодиод.png, id=504, 381.425pt x 134.5025pt>
 File: img/Светодиод.png Graphic file (type png)
 <use img/Светодиод.png>
-Package pdftex.def Info: img/Светодиод.png  used on input line 621.
+Package pdftex.def Info: img/Светодиод.png  used on input line 633.
 (pdftex.def)             Requested size: 397.01602pt x 140.0pt.
-<img/Светодиод красный.jpg, id=484, 60.225pt x 108.405pt>
+<img/Светодиод красный.jpg, id=505, 60.225pt x 108.405pt>
 File: img/Светодиод красный.jpg Graphic file (type jpg)
 <use img/Светодиод красный.jpg>
 Package pdftex.def Info: img/Светодиод красный.jpg  used on inp
-ut line 629.
+ut line 641.
 (pdftex.def)             Requested size: 89.23358pt x 160.60059pt.
-<img/Светодиод зеленый.jpg, id=485, 60.225pt x 108.405pt>
+<img/Светодиод зеленый.jpg, id=506, 60.225pt x 108.405pt>
 File: img/Светодиод зеленый.jpg Graphic file (type jpg)
 <use img/Светодиод зеленый.jpg>
 Package pdftex.def Info: img/Светодиод зеленый.jpg  used on inp
-ut line 630.
+ut line 642.
 (pdftex.def)             Requested size: 89.23358pt x 160.60059pt.
-<img/Светодиод синий.jpg, id=486, 60.225pt x 108.405pt>
+<img/Светодиод синий.jpg, id=507, 60.225pt x 108.405pt>
 File: img/Светодиод синий.jpg Graphic file (type jpg)
 <use img/Светодиод синий.jpg>
 Package pdftex.def Info: img/Светодиод синий.jpg  used on input l
-ine 631.
+ine 643.
 (pdftex.def)             Requested size: 89.23358pt x 160.60059pt.
- [18 <./img/Мотор.jpg> <./img/Светодиод.png>] [19 <./img/Свет
-одиод красный.jpg> <./img/Светодиод зеленый.jpg> <.
-/img/Светодиод синий.jpg>]
-Overfull \hbox (18.28139pt too wide) in paragraph at lines 685--708
+ [18 <./img/Светодиод.png> <./img/Светодиод красный.jp
+g> <./img/Светодиод зеленый.jpg> <./img/Светодиод си
+ний.jpg>]
+Overfull \hbox (18.28139pt too wide) in paragraph at lines 696--719
  [] 
  []
 
-<img/дуня нано2.jpg, id=508, 299.61937pt x 319.94531pt>
+[19]
+<img/дуня нано2.jpg, id=531, 299.61937pt x 319.94531pt>
 File: img/дуня нано2.jpg Graphic file (type jpg)
 <use img/дуня нано2.jpg>
-Package pdftex.def Info: img/дуня нано2.jpg  used on input line 718.
+Package pdftex.def Info: img/дуня нано2.jpg  used on input line 729.
 (pdftex.def)             Requested size: 131.106pt x 140.0pt.
-[20]
-<img/дуня нано.jpg, id=517, 1180.41pt x 774.64406pt>
+<img/дуня нано.jpg, id=532, 1180.41pt x 774.64406pt>
 File: img/дуня нано.jpg Graphic file (type jpg)
 <use img/дуня нано.jpg>
-Package pdftex.def Info: img/дуня нано.jpg  used on input line 728.
+Package pdftex.def Info: img/дуня нано.jpg  used on input line 739.
 (pdftex.def)             Requested size: 228.56699pt x 150.0pt.
- [21 <./img/дуня нано2.jpg> <./img/дуня нано.jpg>]
-<img/лента.jpg, id=524, 523.9575pt x 118.94438pt>
+ [20 <./img/дуня нано2.jpg>]
+<img/лента.jpg, id=539, 523.9575pt x 118.94438pt>
 File: img/лента.jpg Graphic file (type jpg)
 <use img/лента.jpg>
-Package pdftex.def Info: img/лента.jpg  used on input line 758.
+Package pdftex.def Info: img/лента.jpg  used on input line 769.
 (pdftex.def)             Requested size: 352.41684pt x 80.0pt.
-<img/лента в тинкеркад.png, id=525, 1067.99pt x 603.25375pt>
+ [21 <./img/дуня нано.jpg> <./img/лента.jpg>]
+<img/лента в тинкеркад.png, id=546, 1067.99pt x 603.25375pt>
 File: img/лента в тинкеркад.png Graphic file (type png)
 <use img/лента в тинкеркад.png>
 Package pdftex.def Info: img/лента в тинкеркад.png  used on inpu
-t line 780.
+t line 791.
 (pdftex.def)             Requested size: 318.65578pt x 180.0pt.
- [22 <./img/лента.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 803--807
+ [22 <./img/лента в тинкеркад.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 814--818
 
  []
 
-[23 <./img/лента в тинкеркад.png>]
-<img/разметка фанеры.jpg, id=537, 1927.2pt x 1374.13374pt>
+[23]
+<img/разметка фанеры.jpg, id=557, 1927.2pt x 1374.13374pt>
 File: img/разметка фанеры.jpg Graphic file (type jpg)
 <use img/разметка фанеры.jpg>
 Package pdftex.def Info: img/разметка фанеры.jpg  used on input l
-ine 834.
-(pdftex.def)             Requested size: 252.42682pt x 180.0pt.
+ine 847.
+(pdftex.def)             Requested size: 280.48079pt x 200.0pt.
 File: img/разметка фанеры.jpg Graphic file (type jpg)
 <use img/разметка фанеры.jpg>
 Package pdftex.def Info: img/разметка фанеры.jpg  used on input l
-ine 842.
-(pdftex.def)             Requested size: 252.42682pt x 180.0pt.
+ine 855.
+(pdftex.def)             Requested size: 280.48079pt x 200.0pt.
  [24 <./img/разметка фанеры.jpg>]
-<img/Одна деталь.jpg, id=544, 1222.5675pt x 1630.09pt>
+<img/Одна деталь.jpg, id=564, 1222.5675pt x 1630.09pt>
 File: img/Одна деталь.jpg Graphic file (type jpg)
 <use img/Одна деталь.jpg>
-Package pdftex.def Info: img/Одна деталь.jpg  used on input line 886.
+Package pdftex.def Info: img/Одна деталь.jpg  used on input line 899.
 
-(pdftex.def)             Requested size: 149.98502pt x 200.0pt.
+(pdftex.def)             Requested size: 119.988pt x 160.0pt.
  [25 <./img/Одна деталь.jpg>]
-<img/4 детали.jpg, id=551, 1222.5675pt x 1630.09pt>
+<img/4 детали.jpg, id=571, 1222.5675pt x 1630.09pt>
 File: img/4 детали.jpg Graphic file (type jpg)
 <use img/4 детали.jpg>
-Package pdftex.def Info: img/4 детали.jpg  used on input line 892.
-(pdftex.def)             Requested size: 149.98502pt x 200.0pt.
-<img/Получившаяся_конструкция.jpg, id=552, 1222.5675pt x
+Package pdftex.def Info: img/4 детали.jpg  used on input line 905.
+(pdftex.def)             Requested size: 187.49992pt x 250.0pt.
+<img/Получившаяся_конструкция.jpg, id=572, 1222.5675pt x
  1630.09pt>
 File: img/Получившаяся_конструкция.jpg Graphic file (typ
 e jpg)
 <use img/Получившаяся_конструкция.jpg>
 Package pdftex.def Info: img/Получившаяся_конструкция.jp
-g  used on input line 896.
-(pdftex.def)             Requested size: 149.98502pt x 200.0pt.
- [26 <./img/4 детали.jpg> <./img/Получившаяся_констру�
-�ция.jpg>] [27]
-[28] (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+g  used on input line 908.
+(pdftex.def)             Requested size: 172.48277pt x 230.0pt.
+ [26 <./img/4 детали.jpg> <./img/Получившаяся_констру�
+�ция.jpg>] [27]
+<img/Датчик.jpg, id=584, 1927.2pt x 1163.34625pt>
+File: img/Датчик.jpg Graphic file (type jpg)
+<use img/Датчик.jpg>
+Package pdftex.def Info: img/Датчик.jpg  used on input line 994.
+(pdftex.def)             Requested size: 215.34502pt x 130.0pt.
+ [28 <./img/Датчик.jpg>]
+<img/Зеленый.jpg, id=590, 369.38pt x 368.37625pt>
+File: img/Зеленый.jpg Graphic file (type jpg)
+<use img/Зеленый.jpg>
+Package pdftex.def Info: img/Зеленый.jpg  used on input line 1009.
+(pdftex.def)             Requested size: 150.40405pt x 150.0pt.
+<img/Желтый.jpg, id=591, 399.4925pt x 416.55624pt>
+File: img/Желтый.jpg Graphic file (type jpg)
+<use img/Желтый.jpg>
+Package pdftex.def Info: img/Желтый.jpg  used on input line 1015.
+(pdftex.def)             Requested size: 143.85376pt x 150.0pt.
+ [29 <./img/Зеленый.jpg> <./img/Желтый.jpg>]
+<img/Реле.jpg, id=599, 602.25pt x 602.25pt>
+File: img/Реле.jpg Graphic file (type jpg)
+<use img/Реле.jpg>
+Package pdftex.def Info: img/Реле.jpg  used on input line 1023.
+(pdftex.def)             Requested size: 200.00208pt x 200.0pt.
+<img/реле устройство.jpg, id=600, 493.3632pt x 369.5406pt>
+File: img/реле устройство.jpg Graphic file (type jpg)
+<use img/реле устройство.jpg>
+Package pdftex.def Info: img/реле устройство.jpg  used on input l
+ine 1028.
+(pdftex.def)             Requested size: 267.0144pt x 200.0pt.
+ [30 <./img/Реле.jpg> <./img/реле устройство.jpg>] [31]
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2019/09/10 1.8c listings language file
 )
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
@@ -1006,124 +1037,214 @@ File: lstlang1.sty 2019/09/10 1.8c listings language file
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
 )
-Overfull \hbox (12.0pt too wide) in paragraph at lines 1018--1042
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1084--1108
 []|[]| 
  []
 
 
-Overfull \hbox (31.10576pt too wide) in paragraph at lines 991--1043
+Overfull \hbox (31.10576pt too wide) in paragraph at lines 1057--1109
 [] 
  []
 
-[29] [30] [31] [32] [33] [34]
+[32] [33]
+<img/Куб.png, id=645, 823.075pt x 444.66125pt>
+File: img/Куб.png Graphic file (type png)
+<use img/Куб.png>
+Package pdftex.def Info: img/Куб.png  used on input line 1146.
+(pdftex.def)             Requested size: 277.64395pt x 150.0pt.
+<img/Линия.png, id=646, 339.2675pt x 268.00125pt>
+File: img/Линия.png Graphic file (type png)
+<use img/Линия.png>
+Package pdftex.def Info: img/Линия.png  used on input line 1150.
+(pdftex.def)             Requested size: 189.88496pt x 150.0pt.
+<img/Матрица.png, id=647, 743.77875pt x 436.63126pt>
+File: img/Матрица.png Graphic file (type png)
+<use img/Матрица.png>
+Package pdftex.def Info: img/Матрица.png  used on input line 1154.
+(pdftex.def)             Requested size: 221.44432pt x 130.0pt.
+ [34 <./img/Куб.png> <./img/Линия.png> <./img/Матрица.png>]
+<img/Куб в кубе.png, id=658, 599.23875pt x 594.22pt>
+File: img/Куб в кубе.png Graphic file (type png)
+<use img/Куб в кубе.png>
+Package pdftex.def Info: img/Куб в кубе.png  used on input line 1167.
+(pdftex.def)             Requested size: 201.6903pt x 200.0pt.
+ [35 <./img/Куб в кубе.png>] [36] [37]
+<img/Куб из сфер.png, id=676, 826.08624pt x 697.60625pt>
+File: img/Куб из сфер.png Graphic file (type png)
+<use img/Куб из сфер.png>
+Package pdftex.def Info: img/Куб из сфер.png  used on input line 1293.
+
+(pdftex.def)             Requested size: 236.83618pt x 200.0pt.
+ [38 <./img/Куб из сфер.png>]
+<img/Карта и сфера.png, id=683, 1311.90125pt x 571.13374pt>
+File: img/Карта и сфера.png Graphic file (type png)
+<use img/Карта и сфера.png>
+Package pdftex.def Info: img/Карта и сфера.png  used on input line 1
+304.
+(pdftex.def)             Requested size: 459.39252pt x 200.0pt.
+<img/Текущая сфера.png, id=684, 1232.605pt x 425.59pt>
+File: img/Текущая сфера.png Graphic file (type png)
+<use img/Текущая сфера.png>
+Package pdftex.def Info: img/Текущая сфера.png  used on input line 
+1310.
+(pdftex.def)             Requested size: 492.35617pt x 170.0pt.
+
+Overfull \hbox (8.6593pt too wide) in paragraph at lines 1310--1310
+ [] 
+ []
+
+<img/Включенная точка.png, id=685, 1217.54875pt x 437.635pt>
+File: img/Включенная точка.png Graphic file (type png)
+<use img/Включенная точка.png>
+Package pdftex.def Info: img/Включенная точка.png  used on input
+ line 1316.
+(pdftex.def)             Requested size: 472.9657pt x 170.0pt.
+[39 <./img/Карта и сфера.png> <./img/Текущая сфера.png>]
+<img/Рандомная точка.png, id=694, 1124.2pt x 423.5825pt>
+File: img/Рандомная точка.png Graphic file (type png)
+<use img/Рандомная точка.png>
+Package pdftex.def Info: img/Рандомная точка.png  used on input l
+ine 1325.
+(pdftex.def)             Requested size: 451.18158pt x 170.0pt.
+<img/hsv.jpg, id=696, 564.60938pt x 121.20282pt>
+File: img/hsv.jpg Graphic file (type jpg)
+<use img/hsv.jpg>
+Package pdftex.def Info: img/hsv.jpg  used on input line 1333.
+(pdftex.def)             Requested size: 372.6864pt x 80.0pt.
+[40 <./img/Включенная точка.png> <./img/Рандомная то�
+�ка.png> <./img/hsv.jpg>]
+<img/v1.1.png, id=707, 1927.2pt x 1084.05pt>
+File: img/v1.1.png Graphic file (type png)
+<use img/v1.1.png>
+Package pdftex.def Info: img/v1.1.png  used on input line 1354.
+(pdftex.def)             Requested size: 444.42294pt x 250.0pt.
+ [41 <./img/v1.1.png>]
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2019/09/10 1.8c listings language file
 )
-Overfull \hbox (44.02083pt too wide) in paragraph at lines 1297--1378
-[] 
- []
-
-[35] [36] [37]
-Overfull \hbox (26.13716pt too wide) in paragraph at lines 1468--1547
-[] 
- []
-
-[38] [39] [40] [41]
-Overfull \hbox (32.46716pt too wide) in paragraph at lines 1687--1705
-[] 
- []
-
-
-Overfull \hbox (63.27127pt too wide) in paragraph at lines 1712--1769
+Overfull \hbox (44.02083pt too wide) in paragraph at lines 1365--1446
 [] 
  []
 
 [42] [43] [44]
-<img/Абзац.png, id=863, 679.53876pt x 173.64874pt>
-File: img/Абзац.png Graphic file (type png)
-<use img/Абзац.png>
-Package pdftex.def Info: img/Абзац.png  used on input line 1809.
-(pdftex.def)             Requested size: 391.34352pt x 100.0pt.
-<img/Таблица.png, id=864, 581.17125pt x 382.42876pt>
-File: img/Таблица.png Graphic file (type png)
-<use img/Таблица.png>
-Package pdftex.def Info: img/Таблица.png  used on input line 1810.
-(pdftex.def)             Requested size: 379.92061pt x 250.0pt.
- [45 <./img/Абзац.png> <./img/Таблица.png>]
-<img/его.jpg, id=873, 677.53125pt x 1084.05pt>
-File: img/его.jpg Graphic file (type jpg)
-<use img/его.jpg>
-Package pdftex.def Info: img/его.jpg  used on input line 1821.
-(pdftex.def)             Requested size: 337.51385pt x 540.0pt.
- [46 <./img/его.jpg>]
-Overfull \hbox (41.21082pt too wide) in paragraph at lines 1829--1856
- [] 
+Overfull \hbox (26.13716pt too wide) in paragraph at lines 1582--1659
+[] 
+ []
+
+[45] [46]
+Overfull \hbox (32.46716pt too wide) in paragraph at lines 1749--1767
+[] 
+ []
+
+
+Overfull \hbox (63.27127pt too wide) in paragraph at lines 1770--1830
+[] 
  []
 
 [47]
+<img/Куб в приложении.png, id=930, 1929.2075pt x 1069.9975pt>
+File: img/Куб в приложении.png Graphic file (type png)
+<use img/Куб в приложении.png>
+Package pdftex.def Info: img/Куб в приложении.png  used on input 
+line 1849.
+(pdftex.def)             Requested size: 324.51677pt x 180.0pt.
+<img/Октаэдр.png, id=931, 1929.2075pt x 1069.9975pt>
+File: img/Октаэдр.png Graphic file (type png)
+<use img/Октаэдр.png>
+Package pdftex.def Info: img/Октаэдр.png  used on input line 1850.
+(pdftex.def)             Requested size: 324.51677pt x 180.0pt.
+ [48 <./img/Куб в приложении.png> <./img/Октаэдр.png>]
+<img/Абзац.png, id=940, 679.53876pt x 173.64874pt>
+File: img/Абзац.png Graphic file (type png)
+<use img/Абзац.png>
+Package pdftex.def Info: img/Абзац.png  used on input line 1868.
+(pdftex.def)             Requested size: 391.34352pt x 100.0pt.
+<img/Таблица.png, id=941, 581.17125pt x 382.42876pt>
+File: img/Таблица.png Graphic file (type png)
+<use img/Таблица.png>
+Package pdftex.def Info: img/Таблица.png  used on input line 1869.
+(pdftex.def)             Requested size: 379.92061pt x 250.0pt.
+[49 <./img/Абзац.png> <./img/Таблица.png>]
+<img/его.jpg, id=951, 677.53125pt x 1084.05pt>
+File: img/его.jpg Graphic file (type jpg)
+<use img/его.jpg>
+Package pdftex.def Info: img/его.jpg  used on input line 1879.
+(pdftex.def)             Requested size: 337.51385pt x 540.0pt.
+ [50 <./img/его.jpg>]
+[51]
 LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
-1889.
+1948.
  (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-<img/qr-code.png, id=884, 478.03593pt x 478.03593pt>
+<img/qr-code.png, id=962, 478.03593pt x 478.03593pt>
 File: img/qr-code.png Graphic file (type png)
 <use img/qr-code.png>
-Package pdftex.def Info: img/qr-code.png  used on input line 1891.
+Package pdftex.def Info: img/qr-code.png  used on input line 1950.
 (pdftex.def)             Requested size: 200.00053pt x 200.0pt.
- [48 <./img/qr-code.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 1903--1906
-\T2A/cmtt/m/n/12 ����� �������(URL):[][]$https : / / zreni . ru / articles / te
+ [52 <./img/qr-code.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1962--1965
+\T2A/cmtt/m/n/12 ����� �������(URL):[][]$https : / / zreni . ru / articles / te
 hnicheskoe-[]zrenie /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1915--1915
-[]\T2A/cmtt/m/n/12 �. �. ���������, �. �. �����, �. �. ��������// ������ ������
- �
+Underfull \hbox (badness 10000) in paragraph at lines 1974--1974
+[]\T2A/cmtt/m/n/12 �. �. ���������, �. �. �����, �. �. ��������// ������ ������
+ �
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1917.
-[49]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1917.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1976.
+[53]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1976.
  (./проба.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1917.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1917.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1976.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1976.
 
-Package rerunfilecheck Info: File `проба.out' has not changed.
-(rerunfilecheck)             Checksum: D65198136DF85730D9910415572974D3;13929.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1917.
+
+
+Package rerunfilecheck Warning: File `проба.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `проба.out':
+(rerunfilecheck)             Before: 0458A1A1A2FAF0244F493E5D90BE0D7B;14577
+(rerunfilecheck)             After:  DC5F5D16C45E920835BD445E60D894B5;14445.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1976.
  ) 
 Here is how much of TeX's memory you used:
- 15726 strings out of 481239
- 224384 string characters out of 5920377
- 704551 words of memory out of 5000000
- 30297 multiletter control sequences out of 15000+600000
+ 15856 strings out of 481239
+ 227582 string characters out of 5920377
+ 705205 words of memory out of 5000000
+ 30391 multiletter control sequences out of 15000+600000
  555640 words of font info for 84 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,16n,70p,478b,791s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}{/usr/share/texmf
-/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-sy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msb
-m10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx0800.pfb></usr/share/
-texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/pu
-blic/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx17
-28.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx2488.pfb></usr/share/t
-exmf/fonts/type1/public/cm-super/sfrm0600.pfb></usr/share/texmf/fonts/type1/pub
-lic/cm-super/sfrm0700.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm080
-0.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/te
-xmf/fonts/type1/public/cm-super/sfrm1095.pfb></usr/share/texmf/fonts/type1/publ
-ic/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm2488
-.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb></usr/share/tex
-mf/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on проба.pdf (49 pages, 9345280 bytes).
+pdfTeX warning (dest): name{subsubsection.8.2.6} has been referenced but does
+ not exist, replaced by a fixed one
+
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}{/usr/share/texmf/f
+onts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cms
+y8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm1
+0.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx0800.pfb></usr/share/te
+xmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/publ
+ic/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728
+.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx2488.pfb></usr/share/tex
+mf/fonts/type1/public/cm-super/sfrm0600.pfb></usr/share/texmf/fonts/type1/publi
+c/cm-super/sfrm0700.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0800.
+pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texm
+f/fonts/type1/public/cm-super/sfrm1095.pfb></usr/share/texmf/fonts/type1/public
+/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm2488.p
+fb></usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb></usr/share/texmf
+/fonts/type1/public/cm-super/sftt1200.pfb>
+Output written on проба.pdf (53 pages, 11287060 bytes).
 PDF statistics:
- 1074 PDF objects out of 1200 (max. 8388607)
- 953 compressed objects within 10 object streams
- 404 named destinations out of 1000 (max. 500000)
- 705 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1153 PDF objects out of 1200 (max. 8388607)
+ 998 compressed objects within 10 object streams
+ 422 named destinations out of 1000 (max. 500000)
+ 827 words of extra memory for PDF output out of 10000 (max. 10000000)
 
