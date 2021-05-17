@@ -1,0 +1,24 @@
+
+
+
+
+
+.build/uno/src/Arduino.cpp : src/Arduino.ino
+	@mkdir -p .build/uno/src
+	@echo [93msrc/Arduino.ino[0m
+	@/usr/local/bin/ino preproc  -o $@ $^
+
+.build/uno/src/loop.cpp : src/loop.ino
+	@mkdir -p .build/uno/src
+	@echo [93msrc/loop.ino[0m
+	@/usr/local/bin/ino preproc  -o $@ $^
+
+.build/uno/src/lines.cpp : src/lines.ino
+	@mkdir -p .build/uno/src
+	@echo [93msrc/lines.ino[0m
+	@/usr/local/bin/ino preproc  -o $@ $^
+
+
+all : .build/uno/src/Arduino.cpp .build/uno/src/loop.cpp .build/uno/src/lines.cpp
+	@true
+
