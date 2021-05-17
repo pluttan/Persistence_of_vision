@@ -1,0 +1,27 @@
+\documentclass[10pt,pdf,hyperref={unicode}]{beamer}
+\usepackage[T2A]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{movie15}
+\setbeamertemplate{navigation symbols}{}
+\usetheme{default}
+\setbeamertemplate{background}{\includegraphics[width=500px, height=500px]{img/pagebg.jpg}}
+
+\definecolor{UniBlue}{RGB}{183,221,255}
+\setbeamercolor{title}{fg=UniBlue}
+\setbeamercolor{frametitle}{fg=UniBlue}
+\setbeamercolor{structure}{fg=UniBlue}
+\setbeamercolor{normal text}{fg=white}
+
+\title{The title of presentation}   
+\subtitle{Use beamer everywhere you are}
+\begin{document}
+
+\begin{frame}
+\include{title}
+\end{frame} 
+
+\begin{frame}
+\includemovie{1cm}{1cm}{ani.gif}
+\end{frame}
+
+\end{document}
