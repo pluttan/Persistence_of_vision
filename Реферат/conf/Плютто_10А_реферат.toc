@@ -65,7 +65,7 @@
 \contentsline {subsection}{\numberline {8.7}Дополнения}{49}{subsection.8.7}%
 \contentsline {subsubsection}{\numberline {8.7.1}\LaTeX }{49}{subsubsection.8.7.1}%
 \contentsline {subsubsection}{\numberline {8.7.2}Повтор проекта}{50}{subsubsection.8.7.2}%
-\contentsline {subsubsection}{\numberline {8.7.3}Цена}{50}{subsubsection.8.7.3}%
+\contentsline {subsubsection}{\numberline {8.7.3}Цена}{51}{subsubsection.8.7.3}%
 \contentsline {section}{\numberline {9}Области применения и планы на следующие версии}{52}{section.9}%
 \contentsline {section}{\numberline {10}Список использованной литературы}{53}{section.10}%
 \contentsline {subsection}{\numberline {10.1}Интернет-документы:}{53}{subsection.10.1}%
