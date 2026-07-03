@@ -1,15 +1,8 @@
-![Header](header.png)
-
 <div align="center">
 
 # POVgram
 
 **LED-куб 8x8x8 на принципе persistence-of-vision с браузерным редактором 3D-анимаций**
-
-[![License](https://img.shields.io/badge/license-MIT-2C2C2C?style=for-the-badge&labelColor=1E1E1E)](LICENSE)
-[![ESP-IDF](https://img.shields.io/badge/ESP--IDF-E7352C?style=for-the-badge&logo=espressif&labelColor=1E1E1E)](https://docs.espressif.com/projects/esp-idf/)
-[![React](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&labelColor=1E1E1E)](https://react.dev)
-[![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&labelColor=1E1E1E)](https://threejs.org)
 
 </div>
 
@@ -44,6 +37,53 @@
 
 </div>
 
+## ■ Как это работает
+
+```
+1. Датчик оборотов генерирует прерывание по переднему фронту; ESP32-S2 использует математику кривошипно-шатунного механизма с фиксированной точкой для вычисления точных временных смещений для каждого слоя.
+2. PID-управление мотором (LEDC PWM) поддерживает стабильную скорость вращения с логикой жёсткого старта.
+3. В каждый вычисленный момент прошивка управляет полоской WS2812B 8x8 через SPI DMA, отрисовывая один вертикальный срез текущего кадра анимации — формируя полный объём вокселей 8x8x8 в воздухе.
+4. Анимации создаются в браузерном редакторе: кадры рисуются срез за срезом в плоскостях XY/YZ/ZX и просматриваются в реальном времени в 3D-виде на Three.js с поддержкой undo/redo.
+5. Готовая анимация экспортируется как JSON и отправляется на устройство по HTTP (Wi-Fi); устройство сохраняет её на SPI Flash (FAT) и воспроизводит по запросу.
+6. Тот же раздел Flash также доступен как USB Mass Storage (TinyUSB MSC) для прямого управления файлами.
+```
+
+## ■ Скриншоты
+
+<div align="center">
+
+![Screenshot](screenshots/main.png)
+
+*Основной интерфейс редактора анимаций с 3D-предпросмотром куба*
+
+</div>
+
+## ■ Использование
+
+### Фронтенд (редактор анимаций)
+
+```bash
+cd povgram-frontend
+npm install
+npm run dev
+```
+
+### Прошивка
+
+```bash
+cd usb-example/tusb_msc
+idf.py set-target esp32s2
+idf.py menuconfig    # задать WIFI_SSID и WIFI_PASSWORD
+idf.py build flash
+```
+
+### Загрузка анимации
+
+1. Открыть веб-редактор в браузере
+2. Нарисовать кадры по слоям в сетке 8x8, просмотреть куб в 3D
+3. Ввести IP устройства в бейдже, затем открыть меню Export и загрузить анимацию на устройство
+4. Запустить воспроизведение из того же меню для отображения на кубе
+
 ## ■ Структура репозитория
 
 ```
@@ -77,54 +117,18 @@ POVgram/
 └── demos/                        # Sample animations (JSON) + Node.js generators
 ```
 
-## ■ Запуск
-
-### Фронтенд (редактор анимаций)
-
-```bash
-cd povgram-frontend
-npm install
-npm run dev
-```
-
-### Прошивка
-
-```bash
-cd usb-example/tusb_msc
-idf.py set-target esp32s2
-idf.py menuconfig    # задать WIFI_SSID и WIFI_PASSWORD
-idf.py build flash
-```
-
-### Загрузка анимации
-
-1. Открыть веб-редактор в браузере
-2. Нарисовать кадры по слоям в сетке 8x8, просмотреть куб в 3D
-3. Ввести IP устройства в бейдже, затем открыть меню Export и загрузить анимацию на устройство
-4. Запустить воспроизведение из того же меню для отображения на кубе
-
 ## ■ Железо
 
 <div align="center">
 
-| Part | Description |
-|------|-------------|
+| Деталь | Описание |
+|--------|----------|
 | MCU | ESP32-S2 |
 | LEDs | 64x WS2812B strip (data on GPIO 16, SPI2 @ 2.5 MHz) |
 | Motor | DC motor + driver (LEDC PWM on GPIO 40, 2 kHz) |
 | Sensor | Rotation sensor (GPIO 39, rising-edge interrupt, internal pull-up) |
 | Storage | Internal SPI Flash (1 MB FAT partition) |
 | Interface | USB (Mass Storage) + Wi-Fi (HTTP API) |
-
-</div>
-
-## ■ Скриншоты
-
-<div align="center">
-
-![Screenshot](screenshots/main.png)
-
-*Основной интерфейс редактора анимаций с 3D-предпросмотром куба*
 
 </div>
 
